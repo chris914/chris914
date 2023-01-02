@@ -5,6 +5,11 @@ I'm a full-stack engineer with passion for clean code and mobile technologies. C
 > Motto:
 > Of course bad code can be cleaned up. But it’s very expensive.
 
+🌱 I’m deeply interested in the research of Time Management and the best practices of effective time scheduling. You might wonder why proper time management is important.
+
+> Time is life. It is irreversible and irreplaceable. To waste your time is to waste 
+your life, but to master your time is to master your life and make the most of it. (Edwin Bliss)
+
 <!--
 **chris914/chris914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
